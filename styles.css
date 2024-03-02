@@ -1,0 +1,76 @@
+header {
+
+background-color: rgb(124, 137, 145);
+color: rgb(178, 209, 224);
+
+
+
+
+}
+
+img {
+border-radius: 70%;
+border: 1px solid black;
+
+
+}
+
+
+main {
+    height: 750px;
+}
+
+
+
+.title {
+position: sticky; top: 10;
+display: flex;
+justify-content: start;
+align-items: center;
+width: 100%; height: 250px;
+font-family: 'Open Sans', sans-serif;
+
+
+}
+
+
+.intro {
+    max-width: 500px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color:#641a48;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.AboutmeSection {
+background-color: #98c2c8;
+color: rgb(43, 46, 87);
+font-family: 'Open Sans', sans-serif;
+text-align: center;
+}
+
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background-color: #eef4f5;
+height: 50px;
+}
+
+.centered{text-align: center;}
+
+
+
+.link{
+
+
+
+}
+
+a { color: rgb(65, 102, 148);}
